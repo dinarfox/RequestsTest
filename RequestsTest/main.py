@@ -6,7 +6,7 @@ HEADER = {'Content-Type' : 'application/json', 'trainer_token':TOKEN}
 body_registration = {
     "trainer_token": TOKEN,
     "email": "dinarosben@yandex.ru",
-    "password": "Murat_Camat_2015"
+    "password": "1231423"
 }
 body_confirmation = {
     "trainer_token": TOKEN
